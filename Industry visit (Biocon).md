@@ -1,4 +1,4 @@
-#Industry Visit to Biocon Sdn. Bhd.
+# Industry Visit to Biocon Sdn. Bhd.
 
 On 23 December 2025, for my subject Technology and Information System assignment, I had the opportunity to visit Biocon Sdn. Bhd. in Gelang Patah, Johor.
 ___________________________________________
