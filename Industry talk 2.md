@@ -1,6 +1,6 @@
 # Industry Talk 2
 
-INDUSTRY TALK | PROJECT MANAGEMENT & SYSTEM DEVELOPMENT 💼
+## INDUSTRY TALK | PROJECT MANAGEMENT & SYSTEM DEVELOPMENT 💼
 
 I had the opportunity to attend an industry talk by Ts. Abdul Alim Abdul Muttalib from Serunai Commerce Sdn. Bhd., which provided valuable insights into system development and project management.
 The session highlighted the importance of SDLC, differences between Waterfall and Agile, and how AI can enhance productivity when used responsibly. 
